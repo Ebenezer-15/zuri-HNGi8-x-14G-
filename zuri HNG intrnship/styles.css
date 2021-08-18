@@ -1,0 +1,47 @@
+body {
+    margin: 0px;
+    padding-left: 50px;
+    width: 100%;
+    overflow-x: hidden;
+  }
+  span {
+    color: orangered;
+  }
+  
+  .intro p {
+    font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+    font-size: 15px;
+    margin-bottom: 10px;
+  }
+  
+  .intro h4 {
+    font-weight: bolder;
+  }
+  
+  .Skills h4 {
+    font-size: 20px;
+  }
+  
+  #date {
+    font-size: 12px;
+    font-weight: bold;
+  }
+  
+  #FD {
+    font-style: italic;
+  }
+  
+  #B {
+    color: #333;
+    font-style: italic;
+  }
+
+  #footer-pic{
+    margin: 0 35% 5% 35%;
+    box-sizing: border-box;
+    width: 100px;
+    border-radius: 5px;
+    object-fit: cover;
+    
+  }
+  
